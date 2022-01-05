@@ -1,6 +1,0 @@
-data not getting auto populated in h2 db
-
-INSERT INTO USER_BALANCE (user_id, balance) VALUES
-  (1,1000),
-  (2,1000),
-  (3,1000);
